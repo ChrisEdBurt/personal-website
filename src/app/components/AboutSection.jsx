@@ -50,7 +50,7 @@ const AboutSection = () => {
           <h2 className='text-4xl font-bold text-white mb-4'>About Me</h2>
           <p className='text-base lg:text-lg'>
             I&apos;m a Software Developer with 3+ years of experience.
-            <br /> I've worked in the following industries; Security, 3rd Party Integrations, Freelancing, English
+            <br /> I&apos;ve worked in the following industries; Security, 3rd Party Integrations, Freelancing, English
             Teaching in Japan. <br /> I&apos;m passionate about learning new technologies and improving my skills by
             collaborating with other IT enthusiasts.
           </p>
