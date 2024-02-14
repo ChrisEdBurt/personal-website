@@ -41,8 +41,8 @@ const EmailSection = () => {
       <div className='z-10'>
         <h5 className='text-xl font-bold text-white my-2'>Get In Touch</h5>
         <p className='text-[#ADB7BE] mb-4 max-w-md'>
-          I&apos;m looking for new opportunities and projects to expand my programming horizons, reach out and I'll be
-          in touch shortly.
+          I&apos;m looking for new opportunities and projects to expand my programming horizons, reach out and I&apos;ll
+          be in touch shortly.
         </p>
         <div className='socials flex flex-row gap-2'>
           <Link href='https://github.com/ChrisEdBurt'>
